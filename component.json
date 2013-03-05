@@ -1,7 +1,7 @@
 {
   "About this file": "Bower package",
   "name": "jGrowl",
-  "version": "1.2.8",
+  "version": "1.2.10",
   "dependencies": {    
     "jquery":"*"    
   }
